@@ -1,3 +1,1 @@
-{
-  "message": "Hello from GitHub JSON!"
-}
+{"range":"initial_data_when_DOM_loaded!A1:Z995","majorDimension":"ROWS","values":[["initial_data_when_DOM_loaded","38d7450b8d727e3148f13d46ede584b849794ebaf2e43beef50936b1eb7ce83cd79688e3d6190935"],["gsheet_for_general_notice_iwrote","38d7450b8d"],["gsheet_aircraft_data_collected","727e3148f1"],["gsheet_wine_data_collected","3d46ede584"],["gsheet_station_info_data_imade","b849794eba"],["gsheet_airline2lettercode","f2e43beef5"],["gsheet_for_glyinfo_data_from_script","0936b1eb7c"],["gsheet_datawarehouse_imade","e83cd79688"],["gsheet_seatstowage_data_collected","e3d6190935"]]}
